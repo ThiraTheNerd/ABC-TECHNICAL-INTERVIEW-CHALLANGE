@@ -7,6 +7,12 @@
 
 This project involves developing a motor vehicle maintenance application for a service station. The application includes features to manage vehicle maintenance data, store and retrieve files, and compress images.
 
+## Database Schema
+
+Below is the schema diagram for the database design:
+
+![Database Schema](images/database-schema.png)
+
 ## Features
 
 1. **Motor Vehicle Maintenance Application**
