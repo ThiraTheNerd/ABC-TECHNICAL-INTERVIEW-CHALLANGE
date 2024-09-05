@@ -36,5 +36,17 @@ This project involves developing a motor vehicle maintenance application for a s
 2. **Install Dependencies**
     ```bash
     pip install -r requirements.txt
-    
 
+3. **Run Migrations**
+    ```bash
+    python manage.py migrate
+
+2. **Run the Server**
+    ```bash
+    python manage.py runserver 
+
+## Access the Application
+
+ - The application will be available at
+    ```bash
+    http://127.0.0.1:8000/
