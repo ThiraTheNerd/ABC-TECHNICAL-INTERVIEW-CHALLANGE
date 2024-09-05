@@ -26,7 +26,6 @@ Below is the schema diagram for the database design:
    - **Image Compression**: Functionality to compress images before storing them to save space.
    - **Endpoints**:
      - **Upload File**: Endpoint to upload files.
-     - **Delete File**: Endpoint to delete files.
      - **List File Metadata**: Provides metadata for all stored files including file name, URL, size, and upload date.
      - **File Summary**: Summary of the total number of files and total storage used.
    - **Security**: Implementation of security measures to ensure safe file handling.
